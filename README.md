@@ -11,3 +11,8 @@ use ecommerce_db
 npm run seed 
 - run the app!
 node server.js
+
+link to the deployed app: https://quiet-eyrie-66101.herokuapp.com/api/products
+
+
+![Screenshot](screenshot.png "Title")
